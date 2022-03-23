@@ -7,8 +7,9 @@ module.exports = {
     extend: {
       fontFamily: {
         rock: ["Rock Salt"],
-      }
+      },
     },
   },
+  variants: {},
   plugins: [],
 }
