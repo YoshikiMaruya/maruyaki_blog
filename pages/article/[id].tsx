@@ -13,7 +13,7 @@ export default function Article({ article }: Props) {
       <div className="px-10 py-6 mx-auto">
         <div className="max-w-6xl px-10 py-6 mx-auto bg-gray-50">
           <img
-            className="object-cover w-full shadow-sm h-full"
+            className="object-cover shadow-sm"
             src={article.eye_catch.url}
           />
           <div className="mt-2">

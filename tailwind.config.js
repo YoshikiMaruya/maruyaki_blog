@@ -6,7 +6,10 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        rock: ["Rock Salt"],
+        reggae: ['Reggae One'],
+        nunito: ['Nunito'],
+        ubuntu: ['Ubuntu'],
+        yusei: ['Yusei Magic'],
       },
     },
   },
